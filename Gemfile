@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+require 'em/pure_ruby'
 group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-feed', '~> 0.6'
